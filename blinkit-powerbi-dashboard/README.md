@@ -23,7 +23,8 @@ This project analyzes Blinkit-style retail sales data using Power BI to uncover 
 ## 🖼 Dashboard Preview
 
 ### Overall Dashboard
-![Dashboard](dashboard-overview.png)
+<img width="1187" height="676" alt="dashboard-overview png" src="https://github.com/user-attachments/assets/68326773-3f0d-4d64-a68f-9d9c88c4a402" />
+
 
 ### KPI Summary
 ![KPIs](kpi-summary.png)
