@@ -12,4 +12,8 @@ Data analysis projects using Python, SQL, Excel, Power BI &amp; Tableau.
   🧮 SQL Projects (Cricket Case Study)  
 https://github.com/analyst-muneeza/muneeza-data-portfolio/tree/main/SQL-Projects
 
+• 🐍 Python Projects (Pandas Analysis)
+  https://github.com/analyst-muneeza/muneeza-data-portfolio/tree/main/python-pandas-analysis
+
+
 
