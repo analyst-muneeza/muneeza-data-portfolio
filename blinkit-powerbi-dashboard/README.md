@@ -38,17 +38,17 @@ This project analyzes Blinkit-style retail sales data using Power BI to uncover 
 <img width="516" height="226" alt="yearly-trend png" src="https://github.com/user-attachments/assets/df25bd9e-dac2-427a-8e55-cb1e4ff11395" />
 
 
-## 💡 Key Insights
+##  Key Insights
 - Tier 3 outlets recorded the highest total sales.
 - Supermarket Type1 generated maximum revenue.
 - Medium-sized outlets outperformed small outlets.
 - Low-fat products slightly outsold regular products.
 - Sales peaked around 2018 before stabilizing.
 
-## 📂 Dataset
+## Dataset
 This project uses a simulated retail dataset inspired by Blinkit operations.
 
-## 🚀 How to Use
+##  How to Use
 Download the `.pbix` file and open it in Power BI Desktop to explore the interactive dashboard.
 
 
