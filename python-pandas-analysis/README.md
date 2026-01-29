@@ -1,4 +1,23 @@
-# Python Pandas Data Analysis Project
+# Python Pandas Analysis Project
 
-This project focuses on data cleaning, exploration, and visualization using Pandas.
+## Objective
+Analyze product pricing data using Pandas and perform basic data exploration.
+
+## Tools Used
+- Python
+- Pandas
+- Jupyter Notebook
+
+## Files
+- Assignment - Pandas.ipynb — analysis notebook
+
+## Skills Demonstrated
+- DataFrame creation
+- Filtering & sorting
+- Aggregation
+- Descriptive statistics
+
+## Author
+Muneeza 
+
 
