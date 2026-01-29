@@ -6,7 +6,7 @@ Analyze product pricing data using Pandas and perform basic data exploration.
 ## Tools Used
 - Python
 - Pandas
-- Jupyter Notebook
+- Google colab
 
 ## Files
 - Assignment - Pandas.ipynb — analysis notebook
