@@ -1,8 +1,8 @@
-# 🏥 Hospital Emergency Room Dashboard (Excel)
+#  Hospital Emergency Room Dashboard (Excel)
 
 This project presents an interactive Excel dashboard analyzing emergency room operations.
 
-## 📊 Key Metrics
+##  Key Metrics
 - Total patients
 - Average wait time
 - Satisfaction score
@@ -11,11 +11,11 @@ This project presents an interactive Excel dashboard analyzing emergency room op
 - Age group analysis
 - Department referrals
 
-## 🛠 Tools Used
+##  Tools Used
 - Microsoft Excel
 - Pivot Tables
 - Charts
 - Slicers
 
-## 🎯 Objective
+##  Objective
 To monitor ER efficiency and improve patient flow decisions.
