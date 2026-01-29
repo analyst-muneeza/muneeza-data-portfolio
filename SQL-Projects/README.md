@@ -1,26 +1,16 @@
-# SQL Projects Portfolio
+### 🏏 Cricket SQL Case Study
 
-This folder contains SQL-based data analysis projects created by me as part of my learning journey.
+**Objective:**  
+Analyze cricket match data to uncover team performance, top players, and match outcomes.
 
-## Projects Included
+**What I Did:**
+- Designed relational tables (Players, Teams, Matches, Performance)
+- Used PRIMARY & FOREIGN keys
+- Applied JOINs across multiple tables
+- Aggregations using SUM, AVG, COUNT
+- Ranking players using window functions
+- Cleaned and structured data
 
-###  Cricket Case Study
-- Analyzed match and player data using SQL queries
-- Used aggregation, joins, subqueries, and filtering
-- Generated insights on top players, team performance, and match outcomes
+**File:**
+cricket_case_study.sql
 
-**Skills Used:**  
-SQL, Joins, GROUP BY, Window Functions, Data Cleaning
-
----
-
-##  Tools
-- MySQL / PostgreSQL
-- GitHub
-- Excel (for validation)
-
----
-
-##  Author
-Muneeza  
-Aspiring Data Analyst
