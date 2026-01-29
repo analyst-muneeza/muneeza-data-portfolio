@@ -9,3 +9,7 @@ Data analysis projects using Python, SQL, Excel, Power BI &amp; Tableau.
 - 🛒 Blinkit Sales Dashboard (Power BI)
   https://github.com/analyst-muneeza/muneeza-data-portfolio/tree/main/blinkit-powerbi-dashboard
 
+  🧮 SQL Projects (Cricket Case Study)  
+https://github.com/analyst-muneeza/muneeza-data-portfolio/tree/main/SQL-Projects
+
+
