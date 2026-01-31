@@ -1,6 +1,8 @@
 # muneeza-data-portfolio
 Data analysis projects using Python, SQL, Excel, Power BI &amp; Tableau.
 
+📄 Resume: https://github.com/analyst-muneeza/muneeza-resume
+
 ## 📊 Projects
 
 - 🏥 Hospital Emergency Room Dashboard (Excel)
