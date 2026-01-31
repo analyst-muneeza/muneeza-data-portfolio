@@ -1,24 +1,24 @@
 # IPL Tableau Dashboard
 
-## 📊 Overview
+##  Overview
 Interactive dashboard analyzing Indian Premier League match and team performance.
 
-## 🔍 KPIs
+##  KPIs
 - Total matches
 - Top run scorers
 - Wicket leaders
 - Team win %
 - Venue performance
 
-## 🛠 Tools Used
+##  Tools Used
 - Tableau
 - Excel / CSV
 - Data cleaning & visualization
 
-## 📈 Key Insights
+##  Key Insights
 - Mumbai Indians dominated across seasons
 - Some venues favor batting first
 - Toss impact varies by stadium
 
-## 📂 Files
+##  Files
 - IPL_Dashboard.twbx – packaged Tableau dashboard
