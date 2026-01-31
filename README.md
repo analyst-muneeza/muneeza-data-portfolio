@@ -18,7 +18,8 @@ https://github.com/analyst-muneeza/muneeza-data-portfolio/tree/main/SQL-Projects
   https://github.com/analyst-muneeza/muneeza-data-portfolio/tree/main/python-pandas-analysis
 
   • 🏏 IPL Tableau Dashboard  
-https://github.com/analyst-muneeza/muneeza-data-portfolio/blob/main/IPL_Dashboard.twbx
+  https://github.com/analyst-muneeza/muneeza-data-portfolio/tree/main/IPL-Tableau-Dashboard
+
 
 
 
