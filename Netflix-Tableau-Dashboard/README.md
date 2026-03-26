@@ -22,3 +22,10 @@ This project analyzes Netflix content using Tableau to uncover insights about co
 - Content Growth Over Time
 - Country-wise Content Analysis
 - Interactive Filters (Type, Genre, Year, Country)
+
+  ## 📁 Files
+- Netflix_Content_Analysis_Dashboard.twbx – Tableau dashboard file
+- dashboard.png – full dashboard preview
+- content_growth.png – growth trend analysis
+- top_genres.png – genre distribution
+- kpi_summary.png – KPI overview
