@@ -18,6 +18,8 @@ https://github.com/analyst-muneeza/muneeza-data-portfolio/tree/main/SQL-Projects
   • 🏏 IPL Tableau Dashboard  
   https://github.com/analyst-muneeza/muneeza-data-portfolio/tree/main/IPL-Tableau-Dashboard
 
+• 🎬 Netflix Content Analysis Dashboard (Tableau)  
+[View Project](https://github.com/analyst-muneeza/muneeza-data-portfolio/tree/main/Netflix-Tableau-Dashboard)
 
 
 
