@@ -15,7 +15,7 @@ This project analyzes Netflix content using Tableau to uncover trends in content
 - Content growth increased rapidly after 2016
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## 📊 Key Visuals
 
