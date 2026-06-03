@@ -36,10 +36,10 @@ This Power BI dashboard provides executive-level KPI analysis with Profit Insigh
 
 # Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
 # RLS Testing & Implementation
 
-![RLS](rls-testing.png)
+![RLS Setup & Testing](RLS%20Setup%20%26%20Testing.png)
