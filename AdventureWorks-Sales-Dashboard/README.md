@@ -40,4 +40,4 @@ This Power BI dashboard analyzes AdventureWorks sales performance across fiscal 
 
 # Dashboard Insights
 
-![Insights](Insights.png)
+![Summary](Summary.png)
