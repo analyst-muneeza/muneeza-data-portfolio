@@ -5,7 +5,6 @@ This project is an HR Analytics Dashboard created in Power BI to analyze employe
 
 ## Tools Used
 - Power BI
-- Excel
 
 ## Key Insights
 - Total Employees: 1470
