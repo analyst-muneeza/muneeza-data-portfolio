@@ -6,7 +6,6 @@ This Power BI dashboard provides executive-level KPI analysis with Profit Insigh
 ## Tools Used
 - Power BI
 - DAX
-- Excel
 
 ## Key KPIs
 - Total Profit: 16.89M
