@@ -6,7 +6,6 @@ This Power BI dashboard analyzes Amazon sales performance across product categor
 ## Tools Used
 - Power BI
 - DAX
-- Excel
 
 ## Key KPIs
 - Total Sales: 244K
