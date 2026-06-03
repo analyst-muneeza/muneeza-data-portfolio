@@ -35,10 +35,8 @@ This Power BI dashboard analyzes COVID-19 trends in India, including vaccination
 
 # Dashboard Preview
 
-![Dashboard](dashboard.png)
-
----
+![Dashboard](Dashboard.png)
 
 # Summary & Key Findings
 
-![Summary](summary.png)
+![Summary](Summary.png)
