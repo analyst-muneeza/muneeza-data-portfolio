@@ -25,7 +25,7 @@ This Power BI dashboard analyzes financial performance across countries and busi
 
 ## Dashboard Preview
 
-![Dashboard](dashboard-overview.png)
+Financial-Performance-Dashboard/Dashboard.png
 
 ## Insights Preview
 
