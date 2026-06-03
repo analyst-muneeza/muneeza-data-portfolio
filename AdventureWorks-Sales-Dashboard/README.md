@@ -6,7 +6,6 @@ This Power BI dashboard analyzes AdventureWorks sales performance across fiscal 
 ## Tools Used
 - Power BI
 - DAX
-- Excel
 
 ## Key KPIs
 - Total Sales: 29.4M
