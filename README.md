@@ -1,26 +1,92 @@
-# muneeza-data-portfolio
-Data analysis projects using Python, SQL, Excel, Power BI &amp; Tableau.
+# 📊 Muneeza Data Portfolio
 
-## 📊 Projects
+Welcome to my Data Analytics Portfolio! This repository showcases my projects in Data Analysis, Business Analytics, Data Visualization, SQL, Excel, Power BI, Tableau, and Python.
 
-- 🏥 Hospital Emergency Room Dashboard (Excel)
-  https://github.com/analyst-muneeza/muneeza-data-portfolio/tree/main/Hospital-ER-Dashboard-Excel
+## 👩‍💻 About Me
 
-- 🛒 Blinkit Sales Dashboard (Power BI)
-  https://github.com/analyst-muneeza/muneeza-data-portfolio/tree/main/blinkit-powerbi-dashboard
+Hi, I'm **Muneeza**, a Data Analyst passionate about transforming raw data into meaningful insights through analysis, visualization, and business intelligence solutions.
 
-  🧮 SQL Projects (Cricket Case Study)  
-https://github.com/analyst-muneeza/muneeza-data-portfolio/tree/main/SQL-Projects
+### Skills
 
-• 🐍 Python Projects (Pandas Analysis)
-  https://github.com/analyst-muneeza/muneeza-data-portfolio/tree/main/python-pandas-analysis
+* Python
+* SQL
+* Excel
+* Power BI
+* Tableau
+* Pandas
+* Data Visualization
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Business Analytics
 
-  • 🏏 IPL Tableau Dashboard  
-  https://github.com/analyst-muneeza/muneeza-data-portfolio/tree/main/IPL-Tableau-Dashboard
+---
 
-• 🎬 Netflix Content Analysis Dashboard (Tableau)  
-[View Project](https://github.com/analyst-muneeza/muneeza-data-portfolio/tree/main/Netflix-Tableau-Dashboard)
+## 📂 Portfolio Projects
 
+### 📈 Power BI Dashboards
 
+* Blinkit Power BI Dashboard
+* SuperStore Power BI Dashboard
+* Sales Profit Analysis Dashboard
 
+### 📊 Excel Dashboards
+
+* Sales Dashboard
+* Retail Analytics Dashboard
+* Employee Attrition Dashboard
+* Hospital ER Dashboard
+* SuperStore Dashboard
+
+### 📉 Tableau Dashboards
+
+* IPL Dashboard
+* Netflix Dashboard
+
+### 🐍 Python Projects
+
+* Python Pandas Analysis
+* SQL Projects
+
+### 📋 Business Analytics Internships
+
+* Excelerate Data Analyst Associate Internship
+* CodeAlpha Data Analytics Internship
+* Cognifyz Business Analytics Internship
+* Saiket Systems Business Analysis Internship
+
+---
+
+## 🚀 Tools & Technologies
+
+* Python
+* Pandas
+* NumPy
+* SQL
+* Excel
+* Power BI
+* Tableau
+* Google Colab
+* GitHub
+
+---
+
+## 📌 Key Areas of Expertise
+
+* Data Cleaning & Preparation
+* Exploratory Data Analysis (EDA)
+* Dashboard Development
+* Business Intelligence Reporting
+* Customer & Sales Analytics
+* Data Visualization
+* Statistical Analysis
+
+---
+
+## 🔗 Connect With Me
+
+**LinkedIn:** [www.linkedin.com/in/muneezaali-/](http://www.linkedin.com/in/muneezaali-/)
+
+---
+
+⭐ Thank you for visiting my portfolio! Feel free to explore the projects and connect with me.
 
