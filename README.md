@@ -24,18 +24,27 @@ Hi, I'm **Muneeza**, a Data Analyst passionate about transforming raw data into 
 ## 📂 Portfolio Projects
 
 ### 📈 Power BI Dashboards
-
-* Blinkit Power BI Dashboard
-* SuperStore Power BI Dashboard
-* Sales Profit Analysis Dashboard
+- AdventureWorks Sales Dashboard
+- Amazon Sales Dashboard
+- Blinkit Dashboard
+- COVID-19 Trends & Forecast Dashboard
+- Credit Risk Analysis Dashboard
+- Executive KPI & Profit Insights Dashboard
+- Financial Performance Overview Dashboard
+- HR Analytics Dashboard
+- Madrid House Analysis Dashboard
+- Netflix Dashboard
+- Sales & Profit Analysis Dashboard
+- SuperStore Dashboard
 
 ### 📊 Excel Dashboards
-
-* Sales Dashboard
-* Retail Analytics Dashboard
-* Employee Attrition Dashboard
-* Hospital ER Dashboard
-* SuperStore Dashboard
+- Employee Attrition Dashboard
+- Hospital Emergency Room Dashboard
+- Medical Cost Analysis Dashboard
+- Retail Dashboard (Online Retail)
+- Retail Sales Dashboard
+- Sales Dashboard
+- SuperStore Dashboard
 
 ### 📉 Tableau Dashboards
 
