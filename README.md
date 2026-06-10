@@ -36,7 +36,8 @@ Hi, I'm **Muneeza**, a Data Analyst passionate about transforming raw data into 
 - Netflix Dashboard
 - Sales & Profit Analysis Dashboard
 - SuperStore Dashboard
-
+- EdTech Sales Performance Dashboard
+  
 ### 📊 Excel Dashboards
 - Employee Attrition Dashboard
 - Hospital Emergency Room Dashboard
@@ -62,6 +63,8 @@ Hi, I'm **Muneeza**, a Data Analyst passionate about transforming raw data into 
 * CodeAlpha Data Analytics Internship
 * Cognifyz Business Analytics Internship
 * Saiket Systems Business Analysis Internship
+* Oasis Infobyte Data Analytics Internship
+
 
 ---
 
@@ -75,6 +78,7 @@ Hi, I'm **Muneeza**, a Data Analyst passionate about transforming raw data into 
 * Power BI
 * Tableau
 * Google Colab
+* Jupyter Notebook
 * GitHub
 
 ---
