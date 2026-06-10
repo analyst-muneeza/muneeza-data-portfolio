@@ -1,4 +1,4 @@
-Car Selling Dashboard using Tableau
+# Car Selling Dashboard using Tableau
 
 This project presents an interactive Car Selling Dashboard created in Tableau to analyze car sales trends, selling prices, ownership patterns, fuel types, and vehicle distribution over the years.
 The dashboard helps in understanding market trends and identifying factors affecting car selling prices.
