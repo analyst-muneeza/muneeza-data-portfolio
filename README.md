@@ -50,6 +50,13 @@ Hi, I'm **Muneeza**, a Data Analyst passionate about transforming raw data into 
 ### 📉 Tableau Dashboards
 
 * IPL Dashboard
+* Loan Analysis Dashboard
+* COVID-19 Dashboard
+* Superstore Sales Dashboard
+* Daikibo Manufacturing Dashboard
+* Virat Kohli Batting Performance Dashboard
+* Robbery Analysis Dashboard
+* Car Selling Dashboard
 * Netflix Dashboard
 
 ### 🐍 Python Projects
@@ -64,7 +71,7 @@ Hi, I'm **Muneeza**, a Data Analyst passionate about transforming raw data into 
 * Cognifyz Business Analytics Internship
 * Saiket Systems Business Analysis Internship
 * Oasis Infobyte Data Analytics Internship
-
+* Codveda Technologies Internship
 
 ---
 
